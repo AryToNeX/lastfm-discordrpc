@@ -1,0 +1,7 @@
+{
+  "lastfm": {
+    "apiKey": "YOUR_API_KEY",
+    "name": "YOUR_USERNAME"
+  },
+  "discordClientID": "YOUR_CLIENT_ID"
+} 
